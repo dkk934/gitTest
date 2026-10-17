@@ -1,1 +1,5 @@
 fifth test file
+git remote add origin <url>
+git remote rename <old> <new>
+git fetch --all
+git fetch origin
